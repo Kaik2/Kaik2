@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaik2
 - 👀 I’m interested in Streaming with OBS Studio from Mac
-- 🌱 I’m currently learning OBS Studio RTSP streaming
-- 💞️ I’m looking to collaborate on OBS Studio and RTSP servers 
+- 🌱 I’m currently learning OBS Studio and low latency RTSP streaming
+- 💞️ I’m looking to collaborate on OBS Studio and RTSP servers for Mac 
 - 📫 How to reach me ...
 
 <!---
